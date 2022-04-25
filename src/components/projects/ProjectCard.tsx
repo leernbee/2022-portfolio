@@ -17,7 +17,7 @@ const ProjectCard = ({ link = '', image = '', title = '', desc = '' }) => {
       <div className="w-full rounded-lg bg-coral-tree-50 p-2 lg:w-[640px]">
         <img src={image} alt="image" />
       </div>
-      <div className="relative -mt-12  w-full rounded-lg rounded-br-3xl bg-coral-tree-500 p-4 lg:ml-16 lg:w-[640px]">
+      <div className="relative -mt-4 w-full  rounded-lg rounded-br-3xl bg-coral-tree-500 p-4 lg:-mt-12 lg:ml-16 lg:w-[640px]">
         <h4 className="text-xl font-semibold text-beauty-bush-400">
           <a href={link} target="_blank" rel="noopener noreferrer">
             {title}

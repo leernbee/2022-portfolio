@@ -11,9 +11,9 @@ const Services = () => {
           <div className="relative mt-4 rounded-xl bg-coral-tree-500 py-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-tl-xl lg:p-8 ">
             <div className="flex items-center justify-center lg:justify-start">
               <div className="flex items-center justify-center">
-                <div className="h-16 w-16 rounded-full bg-coral-tree-800"></div>
+                <div className="h-14 w-14 rounded-full bg-coral-tree-800"></div>
                 <img
-                  className="absolute w-10"
+                  className="absolute w-8"
                   src="/assets/svg/icon1.svg"
                   alt="icon1"
                 />
@@ -31,9 +31,9 @@ const Services = () => {
           <div className="relative mt-4 rounded-xl bg-coral-tree-500 py-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-tr-xl lg:p-8 ">
             <div className="flex items-center justify-center lg:justify-start">
               <div className="flex items-center justify-center">
-                <div className="h-16 w-16 rounded-full bg-coral-tree-800"></div>
+                <div className="h-14 w-14 rounded-full bg-coral-tree-800"></div>
                 <img
-                  className="absolute w-10"
+                  className="absolute w-8"
                   src="/assets/svg/icon2.svg"
                   alt="icon2"
                 />
@@ -52,9 +52,9 @@ const Services = () => {
           <div className="relative mt-4 rounded-xl bg-coral-tree-500 py-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-bl-xl lg:p-8 ">
             <div className="flex items-center justify-center lg:justify-start">
               <div className="flex items-center justify-center">
-                <div className="h-16 w-16 rounded-full bg-coral-tree-800"></div>
+                <div className="h-14 w-14 rounded-full bg-coral-tree-800"></div>
                 <img
-                  className="absolute w-10"
+                  className="absolute w-8"
                   src="/assets/svg/icon3.svg"
                   alt="icon3"
                 />
@@ -71,9 +71,9 @@ const Services = () => {
           <div className="relative mt-4 rounded-xl bg-coral-tree-500 py-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-br-xl lg:p-8">
             <div className="flex items-center justify-center lg:justify-start">
               <div className="flex items-center justify-center">
-                <div className="h-16 w-16 rounded-full bg-coral-tree-800"></div>
+                <div className="h-14 w-14 rounded-full bg-coral-tree-800"></div>
                 <img
-                  className="absolute w-10"
+                  className="absolute w-8"
                   src="/assets/svg/icon4.svg"
                   alt="icon4"
                 />
