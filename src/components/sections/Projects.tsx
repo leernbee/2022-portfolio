@@ -11,7 +11,7 @@ const Projects = () => {
             PROJECT&nbsp;
           </h2>
         </div>
-        <h3 className="mx-auto max-w-md text-4xl font-semibold text-coral-tree-900">
+        <h3 className="mx-auto mt-3 max-w-md text-4xl font-semibold leading-tight text-coral-tree-900">
           I Enjoy What I Do
         </h3>
         <div className="text-left">

@@ -13,14 +13,14 @@ const About = () => {
                 </h2>
               </div>
             </div>
-            <h3 className="mx-auto max-w-sm text-4xl font-semibold text-coral-tree-900 lg:ml-8">
+            <h3 className="mx-auto mt-3 max-w-md text-4xl font-semibold leading-tight text-coral-tree-900">
               Building Software is my Passion
             </h3>
           </div>
 
-          <div className="mt-8 grid grid-cols-about justify-center lg:mt-16">
-            <div className="flex min-h-[142px] items-center justify-center "></div>
-            <div className="flex min-h-[142px] items-center justify-center ">
+          <div className="mt-12 grid grid-cols-aboutmobile justify-center gap-2 lg:mt-16 lg:grid-cols-about lg:gap-0">
+            <div className="flex items-center justify-center lg:min-h-[142px] "></div>
+            <div className="flex items-center justify-center lg:min-h-[142px] ">
               <img src="/assets/svg/ellipse-2.svg" alt="ellipse" />
               <img
                 src="/assets/svg/figma.svg"
@@ -28,9 +28,9 @@ const About = () => {
                 className="absolute max-h-[50px]"
               />
             </div>
-            <div className="flex min-h-[142px] items-center justify-center "></div>
-            <div className="flex min-h-[142px] items-center justify-center "></div>
-            <div className="flex min-h-[142px] items-center justify-center ">
+            <div className="flex items-center justify-center lg:min-h-[142px] "></div>
+            <div className="flex items-center justify-center lg:min-h-[142px] "></div>
+            <div className="flex items-center justify-center lg:min-h-[142px] ">
               <img src="/assets/svg/ellipse-2.svg" alt="ellipse" />
               <img
                 src="/assets/svg/nodejs.svg"
@@ -38,7 +38,7 @@ const About = () => {
                 className="absolute max-h-[60px]"
               />
             </div>
-            <div className="flex min-h-[142px] items-center justify-center ">
+            <div className="flex items-center justify-center lg:min-h-[142px] ">
               <img src="/assets/svg/ellipse-1.svg" alt="ellipse" />
               <img
                 src="/assets/svg/react.svg"
@@ -46,7 +46,7 @@ const About = () => {
                 className="absolute max-h-[60px]"
               />
             </div>
-            <div className="flex min-h-[142px] items-center justify-center ">
+            <div className="flex items-center justify-center lg:min-h-[142px] ">
               <img src="/assets/svg/ellipse-2.svg" alt="ellipse" />
               <img
                 src="/assets/svg/redux.svg"
@@ -54,7 +54,7 @@ const About = () => {
                 className="absolute max-h-[60px]"
               />
             </div>
-            <div className="flex min-h-[142px] items-center justify-center ">
+            <div className="flex items-center justify-center lg:min-h-[142px] ">
               <img src="/assets/svg/ellipse-1.svg" alt="ellipse" />
               <img
                 src="/assets/svg/wordpress.svg"
@@ -62,8 +62,8 @@ const About = () => {
                 className="absolute max-h-[60px]"
               />
             </div>
-            <div className="flex min-h-[142px] items-center justify-center "></div>
-            <div className="flex min-h-[142px] items-center justify-center ">
+            <div className="flex items-center justify-center lg:min-h-[142px] "></div>
+            <div className="flex items-center justify-center lg:min-h-[142px] ">
               <img src="/assets/svg/ellipse-2.svg" alt="ellipse" />
               <img
                 src="/assets/svg/laravel.svg"
@@ -71,8 +71,8 @@ const About = () => {
                 className="absolute max-h-[60px]"
               />
             </div>
-            <div className="flex min-h-[142px] items-center justify-center "></div>
-            <div className="flex min-h-[142px] items-center justify-center "></div>
+            <div className="flex items-center justify-center lg:min-h-[142px] "></div>
+            <div className="flex items-center justify-center lg:min-h-[142px] "></div>
           </div>
         </div>
         <div className="w-full px-4 sm:px-8 lg:w-1/2">

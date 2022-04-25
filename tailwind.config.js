@@ -46,6 +46,7 @@ module.exports = {
 
     gridTemplateColumns: {
       about: 'repeat(4, minmax(0, 160px))',
+      aboutmobile: 'repeat(4, minmax(0, 100px))',
     },
   },
   plugins: [],

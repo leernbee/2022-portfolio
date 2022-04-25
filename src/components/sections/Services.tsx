@@ -8,7 +8,7 @@ const Services = () => {
         className="relative bg-white px-4 text-white lg:relative "
       >
         <div className="mx-auto flex w-full max-w-6xl flex-col text-center lg:flex-row lg:text-left">
-          <div className="relative mt-4 rounded-xl bg-coral-tree-500 p-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-tl-xl">
+          <div className="relative mt-4 rounded-xl bg-coral-tree-500 py-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-tl-xl lg:p-8 ">
             <div className="flex items-center justify-center lg:justify-start">
               <div className="flex items-center justify-center">
                 <div className="h-16 w-16 rounded-full bg-coral-tree-800"></div>
@@ -28,7 +28,7 @@ const Services = () => {
               let&apos;s take your product to the next level.
             </p>
           </div>
-          <div className="relative mt-4 rounded-xl bg-coral-tree-500 p-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-tr-xl">
+          <div className="relative mt-4 rounded-xl bg-coral-tree-500 py-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-tr-xl lg:p-8 ">
             <div className="flex items-center justify-center lg:justify-start">
               <div className="flex items-center justify-center">
                 <div className="h-16 w-16 rounded-full bg-coral-tree-800"></div>
@@ -49,7 +49,7 @@ const Services = () => {
         </div>
         <div className="mx-auto hidden h-[2px] max-w-6xl bg-coral-tree-50 lg:block"></div>
         <div className="mx-auto flex w-full max-w-6xl flex-col text-center lg:flex-row lg:text-left">
-          <div className="relative mt-4 rounded-xl bg-coral-tree-500 p-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-bl-xl">
+          <div className="relative mt-4 rounded-xl bg-coral-tree-500 py-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-bl-xl lg:p-8 ">
             <div className="flex items-center justify-center lg:justify-start">
               <div className="flex items-center justify-center">
                 <div className="h-16 w-16 rounded-full bg-coral-tree-800"></div>
@@ -68,7 +68,7 @@ const Services = () => {
               you have a problem; it&apos;s definite that I have a solution. 😊
             </p>
           </div>
-          <div className="relative mt-4 rounded-xl bg-coral-tree-500 p-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-br-xl">
+          <div className="relative mt-4 rounded-xl bg-coral-tree-500 py-8 lg:mt-0 lg:w-1/2 lg:rounded-none lg:rounded-br-xl lg:p-8">
             <div className="flex items-center justify-center lg:justify-start">
               <div className="flex items-center justify-center">
                 <div className="h-16 w-16 rounded-full bg-coral-tree-800"></div>
