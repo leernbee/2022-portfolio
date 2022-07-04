@@ -46,12 +46,6 @@ const Projects = () => {
             desc="Growtech Farms was established to elevate the Agriculture sector"
             image="/assets/images/growtech.jpg"
           />
-          <ProjectCard
-            link="https://magkaisa.ph"
-            title="Election Cheatsheet with Social Share"
-            desc="A personal project in connection with the upcoming election"
-            image="/assets/images/magkaisa.jpg"
-          />
         </div>
       </div>
     </div>
