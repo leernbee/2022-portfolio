@@ -17,7 +17,7 @@ const Hero = () => {
           </p>
           <div className="mt-10 sm:flex sm:justify-center lg:justify-start">
             <a
-              href="/resume-llino-del-rosario.pdf"
+              href="#"
               className="inline-flex items-center justify-center rounded-md border border-transparent bg-coral-tree-600 px-8 py-3 text-base font-medium text-white shadow hover:bg-coral-tree-700 md:py-4 md:px-10 md:text-lg"
             >
               View Resume
